@@ -1,0 +1,120 @@
+[0m[[0m[0mdebug[0m] [0m[0mThe edu.colorado.csci3155.project1.StackMachineInstruction has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getClass,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(finalize,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) edu.colorado.csci3155.project1.StackMachineInstruction: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) edu.colorado.csci3155.project1.StackMachineInstruction.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of edu.colorado.csci3155.project1.StackMachineTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of edu.colorado.csci3155.project1.CompilerTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe edu.colorado.csci3155.project1.Log$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getClass,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(finalize,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) edu.colorado.csci3155.project1.Log$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) edu.colorado.csci3155.project1.Log$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of edu.colorado.csci3155.project1.CompilerTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe edu.colorado.csci3155.project1.StackMachineCompiler$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getClass,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(finalize,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) edu.colorado.csci3155.project1.StackMachineCompiler$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) edu.colorado.csci3155.project1.StackMachineCompiler$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of edu.colorado.csci3155.project1.CompilerTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe edu.colorado.csci3155.project1.AddI$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getClass,[Default]), UsedName(notifyAll,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(finalize,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) edu.colorado.csci3155.project1.AddI$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) edu.colorado.csci3155.project1.AddI$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of edu.colorado.csci3155.project1.StackMachineTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of edu.colorado.csci3155.project1.CompilerTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe edu.colorado.csci3155.project1.PushI$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getClass,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(finalize,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) edu.colorado.csci3155.project1.PushI$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) edu.colorado.csci3155.project1.PushI$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of edu.colorado.csci3155.project1.StackMachineTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of edu.colorado.csci3155.project1.CompilerTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe edu.colorado.csci3155.project1.Const$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getClass,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(finalize,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) edu.colorado.csci3155.project1.Const$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) edu.colorado.csci3155.project1.Const$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of edu.colorado.csci3155.project1.CompilerTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe edu.colorado.csci3155.project1.MultI$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getClass,[Default]), UsedName(notifyAll,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(finalize,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) edu.colorado.csci3155.project1.MultI$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) edu.colorado.csci3155.project1.MultI$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of edu.colorado.csci3155.project1.StackMachineTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of edu.colorado.csci3155.project1.CompilerTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe edu.colorado.csci3155.project1.Plus$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getClass,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(finalize,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) edu.colorado.csci3155.project1.Plus$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) edu.colorado.csci3155.project1.Plus$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of edu.colorado.csci3155.project1.CompilerTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe edu.colorado.csci3155.project1.ExpI$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getClass,[Default]), UsedName(notifyAll,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(finalize,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) edu.colorado.csci3155.project1.ExpI$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) edu.colorado.csci3155.project1.ExpI$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of edu.colorado.csci3155.project1.StackMachineTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of edu.colorado.csci3155.project1.CompilerTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe edu.colorado.csci3155.project1.SubI$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getClass,[Default]), UsedName(notifyAll,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(finalize,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) edu.colorado.csci3155.project1.SubI$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) edu.colorado.csci3155.project1.SubI$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of edu.colorado.csci3155.project1.StackMachineTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of edu.colorado.csci3155.project1.CompilerTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe edu.colorado.csci3155.project1.Expr has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getClass,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(finalize,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) edu.colorado.csci3155.project1.Expr: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) edu.colorado.csci3155.project1.Expr.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of edu.colorado.csci3155.project1.CompilerTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe edu.colorado.csci3155.project1.Minus$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getClass,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(finalize,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) edu.colorado.csci3155.project1.Minus$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) edu.colorado.csci3155.project1.Minus$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of edu.colorado.csci3155.project1.CompilerTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe edu.colorado.csci3155.project1.LogI$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getClass,[Default]), UsedName(notifyAll,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(finalize,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) edu.colorado.csci3155.project1.LogI$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) edu.colorado.csci3155.project1.LogI$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of edu.colorado.csci3155.project1.StackMachineTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of edu.colorado.csci3155.project1.CompilerTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe edu.colorado.csci3155.project1.StackMachineEmulator$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getClass,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(finalize,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) edu.colorado.csci3155.project1.StackMachineEmulator$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) edu.colorado.csci3155.project1.StackMachineEmulator$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of edu.colorado.csci3155.project1.StackMachineTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe edu.colorado.csci3155.project1.Mult$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getClass,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(finalize,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) edu.colorado.csci3155.project1.Mult$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) edu.colorado.csci3155.project1.Mult$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of edu.colorado.csci3155.project1.CompilerTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe edu.colorado.csci3155.project1.Exp$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getClass,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(finalize,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) edu.colorado.csci3155.project1.Exp$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) edu.colorado.csci3155.project1.Exp$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of edu.colorado.csci3155.project1.CompilerTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m

@@ -1,0 +1,25 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/maurovargas/Documents/CSCI3155/csci3155_s20_project1/src/main/scala/edu/colorado/csci3155/project1/StackMachineEmulator.scala:42:14: patterns after a variable pattern cannot match (SLS 8.1.1)[0m
+[0m[[0m[33mwarn[0m] [0m[0m        case subI => {[0m
+[0m[[0m[33mwarn[0m] [0m[0m             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/maurovargas/Documents/CSCI3155/csci3155_s20_project1/src/main/scala/edu/colorado/csci3155/project1/StackMachineEmulator.scala:52:23: unreachable code due to variable pattern 'subI' on line 42[0m
+[0m[[0m[33mwarn[0m] [0m[0m        case MultI => {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/maurovargas/Documents/CSCI3155/csci3155_s20_project1/src/main/scala/edu/colorado/csci3155/project1/StackMachineEmulator.scala:62:22: unreachable code due to variable pattern 'subI' on line 42[0m
+[0m[[0m[33mwarn[0m] [0m[0m        case DivI => {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                     ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/maurovargas/Documents/CSCI3155/csci3155_s20_project1/src/main/scala/edu/colorado/csci3155/project1/StackMachineEmulator.scala:73:33: unreachable code due to variable pattern 'subI' on line 42[0m
+[0m[[0m[33mwarn[0m] [0m[0m            math.log(stack.head)::stack[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/maurovargas/Documents/CSCI3155/csci3155_s20_project1/src/main/scala/edu/colorado/csci3155/project1/StackMachineEmulator.scala:76:33: unreachable code due to variable pattern 'subI' on line 42[0m
+[0m[[0m[33mwarn[0m] [0m[0m            math.sin(stack.head)::stack[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/maurovargas/Documents/CSCI3155/csci3155_s20_project1/src/main/scala/edu/colorado/csci3155/project1/StackMachineEmulator.scala:79:33: unreachable code due to variable pattern 'subI' on line 42[0m
+[0m[[0m[33mwarn[0m] [0m[0m            math.cos(stack.head)::stack[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/maurovargas/Documents/CSCI3155/csci3155_s20_project1/src/main/scala/edu/colorado/csci3155/project1/StackMachineEmulator.scala:82:33: unreachable code due to variable pattern 'subI' on line 42[0m
+[0m[[0m[33mwarn[0m] [0m[0m            math.exp(stack.head)::stack[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/maurovargas/Documents/CSCI3155/csci3155_s20_project1/src/main/scala/edu/colorado/csci3155/project1/StackMachineEmulator.scala:84:19: unreachable code due to variable pattern 'subI' on line 42[0m
+[0m[[0m[33mwarn[0m] [0m[0m        case _ => throw new IllegalArgumentException[0m
+[0m[[0m[33mwarn[0m] [0m[0m                  ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m8 warnings found[0m
